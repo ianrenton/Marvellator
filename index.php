@@ -1,6 +1,6 @@
 <?php
-    $adjectives = array("Obsequious","Flatulent","Worrisome","Sub-standard","Laconic","Sarcastic","Delinquent","Adolescent","Persistent","Pointless","Meticulous","Widely-Distributed","Inebriated","Ubiquitous","Adventures of Tiny","Underperforming","Flavoursome","Narcotic","Subsidized","Surreptitious","Transgender","Cathartic","Bigoted","Curmudgeonly","Tasteless","Credible","Perjorative","Racist");
-    $heroes = array("Superman","Supergirl","Spiderman","Batman","X-Men","Wolverine","Cyclops","Jean Gray","Professor X","Flash","Hulk","She-Hulk","Avengers","Iron Man","Captain America","Thor","Wonder Woman","Four","Silver Surfer","Judge Dredd","Daredevil","Catwoman","Green Lantern","Hawkman","Aquaman","Watchmen","Doctor Manhattan","Rorschach","Spider Jerusalem","Electra","Galactus","Batgirl","Poison Ivy","Witchblade","Zatanna","Conan");
+    $adjectives = array("Obsequious","Flatulent","Worrisome","Puny","Sub-standard","Laconic","Sarcastic","Delinquent","Adolescent","Persistent","Pointless","Meticulous","Widely-Distributed","Inebriated","Ubiquitous","Adventures of Tiny","Underperforming","Flavoursome","Narcotic","Subsidized","Surreptitious","Transgender","Cathartic","Bigoted","Curmudgeonly","Tasteless","Credible","Perjorative","Racist");
+    $heroes = array("Superman","Supergirl","Spiderman","Batman","X-Men","Wolverine","Cyclops","Jean Gray","Professor X","Flash","Hulk","She-Hulk","Avengers","Iron Man","Captain America","Thor","Justice League","Wonder Woman","Four","Silver Surfer","Judge Dredd","Daredevil","Catwoman","Green Lantern","Hawkman","Aquaman","Watchmen","Doctor Manhattan","Rorschach","Spider Jerusalem","Electra","Galactus","Batgirl","Poison Ivy","Witchblade","Zatanna","Conan");
     $heroesWithoutThe = array("X-Men");
 ?>
 
@@ -37,7 +37,7 @@
 
         <p>The Mavellator is a random comic name generator, written by <a href="http://onlydreaming.net/about-me">this guy</a>. It is not affiliated with Marvel Comics (as if there was any doubt in your mind).</p>
         <ul class="share">
-            <li><a href="http://twitter.com/home?status=Behold the Marvellator! http://onlydreaming.net/marvellator">Tweet it</a></li>
+            <li><a href="http://twitter.com/home?status=Behold the #Marvellator! http://onlydreaming.net/marvellator">Tweet it</a></li>
             <li><a href="http://www.facebook.com/share.php?u=http://onlydreaming.net/marvellator">Facebookify it</a></li>
             <li><a href="mailto:marvellator@onlydreaming.net?subject=Marvellator%20Suggestion">Suggest more things</a></li>
             <li><a href="mailto:someone%20who%20gives%20a%20damn?subject=Paging%20the%20Internet%20Police!">Complain about it</a></li>
