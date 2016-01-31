@@ -5,4 +5,6 @@ Marvellator
 
 Naturally, this has nothing to do with Marvel Comics in any way (please don't sue me).
 
-You can use the Marvellator at http://marvellator.onlydreaming.net
+You can try out the Marvellator at [http://marvellator.onlydreaming.net](http://marvellator.onlydreaming.net).
+
+"Patches" to add more content are gratefully accepted!
