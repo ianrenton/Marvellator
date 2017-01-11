@@ -20,9 +20,12 @@
             var heroesWithoutThe = ["X-Men"];
             var adjective = adjectives[Math.floor(Math.random() * adjectives.length)];
             var hero = heroes[Math.floor(Math.random() * heroes.length)];
-            var the = (heroesWithoutThe.indexOf(hero) > -1) ? "The " : "";
+            var the = "";
+            if (heroesWithoutThe.indexOf(hero) == -1) {
+              the = "The ";
+            }
             var volume = Math.floor(Math.random() * 100);
-            document.getElementById("text").innerHTML=char1+" "+verb+" "+char2+", "+loc;
+            document.getElementById("text").innerHTML=the+adjective+" "+hero+" vol. "+volume;
           }
         </script>
     </head>
